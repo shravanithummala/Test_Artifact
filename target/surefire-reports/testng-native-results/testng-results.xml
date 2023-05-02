@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T17:01:36 EDT" name="Surefire suite" finished-at="2023-04-27T17:01:40 EDT" duration-ms="3512">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T17:01:36 EDT" name="Surefire test" finished-at="2023-04-27T17:01:40 EDT" duration-ms="3512">
+      <class name="Test_Group.Test_Artifact.BrowserLaunchTest">
+        <test-method signature="browser()[pri:0, instance:Test_Group.Test_Artifact.BrowserLaunchTest@7fe8ea47]" started-at="2023-04-27T17:01:36 EDT" name="browser" finished-at="2023-04-27T17:01:40 EDT" duration-ms="3461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+      </class> <!-- Test_Group.Test_Artifact.BrowserLaunchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
